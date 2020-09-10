@@ -2,7 +2,7 @@ from geopy.geocoders import Nominatim
 import requests
 from xml.dom import minidom
 
-key = '08e03aa5311fe7e6f1359b320c9d264b'
+key = KEY
 
 
 def parse_weather(weather):
