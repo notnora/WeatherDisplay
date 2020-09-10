@@ -1,0 +1,2984 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<available xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:noNamespaceSchemaLocation="https://api.met.no/weatherapi-files/schemas/list-0.4.xsd">
+
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/png</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>1</value>
+        <label>Sun</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fpng&amp;symbol=1</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/png</value>
+    </parameter>
+    <parameter>
+      <name>is_night</name>
+      <value>1</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>1</value>
+        <label>Sun</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fpng&amp;is_night=1&amp;symbol=1</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/png</value>
+    </parameter>
+    <parameter>
+      <name>is_polarnight</name>
+      <value>1</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>1</value>
+        <label>Sun</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fpng&amp;is_polarnight=1&amp;symbol=1</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/png</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>2</value>
+        <label>LightCloud</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fpng&amp;symbol=2</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/png</value>
+    </parameter>
+    <parameter>
+      <name>is_night</name>
+      <value>1</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>2</value>
+        <label>LightCloud</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fpng&amp;is_night=1&amp;symbol=2</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/png</value>
+    </parameter>
+    <parameter>
+      <name>is_polarnight</name>
+      <value>1</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>2</value>
+        <label>LightCloud</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fpng&amp;is_polarnight=1&amp;symbol=2</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/png</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>3</value>
+        <label>PartlyCloud</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fpng&amp;symbol=3</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/png</value>
+    </parameter>
+    <parameter>
+      <name>is_night</name>
+      <value>1</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>3</value>
+        <label>PartlyCloud</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fpng&amp;is_night=1&amp;symbol=3</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/png</value>
+    </parameter>
+    <parameter>
+      <name>is_polarnight</name>
+      <value>1</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>3</value>
+        <label>PartlyCloud</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fpng&amp;is_polarnight=1&amp;symbol=3</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/png</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>4</value>
+        <label>Cloud</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fpng&amp;symbol=4</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/png</value>
+    </parameter>
+    <parameter>
+      <name>is_night</name>
+      <value>1</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>4</value>
+        <label>Cloud</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fpng&amp;is_night=1&amp;symbol=4</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/png</value>
+    </parameter>
+    <parameter>
+      <name>is_polarnight</name>
+      <value>1</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>4</value>
+        <label>Cloud</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fpng&amp;is_polarnight=1&amp;symbol=4</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/png</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>5</value>
+        <label>LightRainSun</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fpng&amp;symbol=5</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/png</value>
+    </parameter>
+    <parameter>
+      <name>is_night</name>
+      <value>1</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>5</value>
+        <label>LightRainSun</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fpng&amp;is_night=1&amp;symbol=5</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/png</value>
+    </parameter>
+    <parameter>
+      <name>is_polarnight</name>
+      <value>1</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>5</value>
+        <label>LightRainSun</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fpng&amp;is_polarnight=1&amp;symbol=5</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/png</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>6</value>
+        <label>LightRainThunderSun</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fpng&amp;symbol=6</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/png</value>
+    </parameter>
+    <parameter>
+      <name>is_night</name>
+      <value>1</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>6</value>
+        <label>LightRainThunderSun</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fpng&amp;is_night=1&amp;symbol=6</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/png</value>
+    </parameter>
+    <parameter>
+      <name>is_polarnight</name>
+      <value>1</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>6</value>
+        <label>LightRainThunderSun</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fpng&amp;is_polarnight=1&amp;symbol=6</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/png</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>7</value>
+        <label>SleetSun</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fpng&amp;symbol=7</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/png</value>
+    </parameter>
+    <parameter>
+      <name>is_night</name>
+      <value>1</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>7</value>
+        <label>SleetSun</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fpng&amp;is_night=1&amp;symbol=7</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/png</value>
+    </parameter>
+    <parameter>
+      <name>is_polarnight</name>
+      <value>1</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>7</value>
+        <label>SleetSun</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fpng&amp;is_polarnight=1&amp;symbol=7</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/png</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>8</value>
+        <label>SnowSun</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fpng&amp;symbol=8</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/png</value>
+    </parameter>
+    <parameter>
+      <name>is_night</name>
+      <value>1</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>8</value>
+        <label>SnowSun</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fpng&amp;is_night=1&amp;symbol=8</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/png</value>
+    </parameter>
+    <parameter>
+      <name>is_polarnight</name>
+      <value>1</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>8</value>
+        <label>SnowSun</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fpng&amp;is_polarnight=1&amp;symbol=8</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/png</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>9</value>
+        <label>LightRain</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fpng&amp;symbol=9</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/png</value>
+    </parameter>
+    <parameter>
+      <name>is_night</name>
+      <value>1</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>9</value>
+        <label>LightRain</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fpng&amp;is_night=1&amp;symbol=9</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/png</value>
+    </parameter>
+    <parameter>
+      <name>is_polarnight</name>
+      <value>1</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>9</value>
+        <label>LightRain</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fpng&amp;is_polarnight=1&amp;symbol=9</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/png</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>10</value>
+        <label>Rain</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fpng&amp;symbol=10</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/png</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>11</value>
+        <label>RainThunder</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fpng&amp;symbol=11</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/png</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>12</value>
+        <label>Sleet</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fpng&amp;symbol=12</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/png</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>13</value>
+        <label>Snow</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fpng&amp;symbol=13</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/png</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>14</value>
+        <label>SnowThunder</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fpng&amp;symbol=14</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/png</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>15</value>
+        <label>Fog</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fpng&amp;symbol=15</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/png</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>20</value>
+        <label>SleetSunThunder</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fpng&amp;symbol=20</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/png</value>
+    </parameter>
+    <parameter>
+      <name>is_night</name>
+      <value>1</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>20</value>
+        <label>SleetSunThunder</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fpng&amp;is_night=1&amp;symbol=20</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/png</value>
+    </parameter>
+    <parameter>
+      <name>is_polarnight</name>
+      <value>1</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>20</value>
+        <label>SleetSunThunder</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fpng&amp;is_polarnight=1&amp;symbol=20</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/png</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>21</value>
+        <label>SnowSunThunder</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fpng&amp;symbol=21</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/png</value>
+    </parameter>
+    <parameter>
+      <name>is_night</name>
+      <value>1</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>21</value>
+        <label>SnowSunThunder</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fpng&amp;is_night=1&amp;symbol=21</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/png</value>
+    </parameter>
+    <parameter>
+      <name>is_polarnight</name>
+      <value>1</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>21</value>
+        <label>SnowSunThunder</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fpng&amp;is_polarnight=1&amp;symbol=21</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/png</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>22</value>
+        <label>LightRainThunder</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fpng&amp;symbol=22</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/png</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>23</value>
+        <label>SleetThunder</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fpng&amp;symbol=23</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/png</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>24</value>
+        <label>DrizzleThunderSun</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fpng&amp;symbol=24</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/png</value>
+    </parameter>
+    <parameter>
+      <name>is_night</name>
+      <value>1</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>24</value>
+        <label>DrizzleThunderSun</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fpng&amp;is_night=1&amp;symbol=24</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/png</value>
+    </parameter>
+    <parameter>
+      <name>is_polarnight</name>
+      <value>1</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>24</value>
+        <label>DrizzleThunderSun</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fpng&amp;is_polarnight=1&amp;symbol=24</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/png</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>25</value>
+        <label>RainThunderSun</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fpng&amp;symbol=25</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/png</value>
+    </parameter>
+    <parameter>
+      <name>is_night</name>
+      <value>1</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>25</value>
+        <label>RainThunderSun</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fpng&amp;is_night=1&amp;symbol=25</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/png</value>
+    </parameter>
+    <parameter>
+      <name>is_polarnight</name>
+      <value>1</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>25</value>
+        <label>RainThunderSun</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fpng&amp;is_polarnight=1&amp;symbol=25</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/png</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>26</value>
+        <label>LightSleetThunderSun</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fpng&amp;symbol=26</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/png</value>
+    </parameter>
+    <parameter>
+      <name>is_night</name>
+      <value>1</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>26</value>
+        <label>LightSleetThunderSun</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fpng&amp;is_night=1&amp;symbol=26</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/png</value>
+    </parameter>
+    <parameter>
+      <name>is_polarnight</name>
+      <value>1</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>26</value>
+        <label>LightSleetThunderSun</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fpng&amp;is_polarnight=1&amp;symbol=26</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/png</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>27</value>
+        <label>HeavySleetThunderSun</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fpng&amp;symbol=27</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/png</value>
+    </parameter>
+    <parameter>
+      <name>is_night</name>
+      <value>1</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>27</value>
+        <label>HeavySleetThunderSun</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fpng&amp;is_night=1&amp;symbol=27</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/png</value>
+    </parameter>
+    <parameter>
+      <name>is_polarnight</name>
+      <value>1</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>27</value>
+        <label>HeavySleetThunderSun</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fpng&amp;is_polarnight=1&amp;symbol=27</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/png</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>28</value>
+        <label>LightSnowThunderSun</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fpng&amp;symbol=28</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/png</value>
+    </parameter>
+    <parameter>
+      <name>is_night</name>
+      <value>1</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>28</value>
+        <label>LightSnowThunderSun</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fpng&amp;is_night=1&amp;symbol=28</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/png</value>
+    </parameter>
+    <parameter>
+      <name>is_polarnight</name>
+      <value>1</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>28</value>
+        <label>LightSnowThunderSun</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fpng&amp;is_polarnight=1&amp;symbol=28</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/png</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>29</value>
+        <label>HeavySnowThunderSun</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fpng&amp;symbol=29</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/png</value>
+    </parameter>
+    <parameter>
+      <name>is_night</name>
+      <value>1</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>29</value>
+        <label>HeavySnowThunderSun</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fpng&amp;is_night=1&amp;symbol=29</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/png</value>
+    </parameter>
+    <parameter>
+      <name>is_polarnight</name>
+      <value>1</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>29</value>
+        <label>HeavySnowThunderSun</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fpng&amp;is_polarnight=1&amp;symbol=29</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/png</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>30</value>
+        <label>DrizzleThunder</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fpng&amp;symbol=30</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/png</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>31</value>
+        <label>LightSleetThunder</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fpng&amp;symbol=31</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/png</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>32</value>
+        <label>HeavySleetThunder</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fpng&amp;symbol=32</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/png</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>33</value>
+        <label>LightSnowThunder</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fpng&amp;symbol=33</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/png</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>34</value>
+        <label>HeavySnowThunder</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fpng&amp;symbol=34</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/png</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>40</value>
+        <label>DrizzleSun</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fpng&amp;symbol=40</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/png</value>
+    </parameter>
+    <parameter>
+      <name>is_night</name>
+      <value>1</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>40</value>
+        <label>DrizzleSun</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fpng&amp;is_night=1&amp;symbol=40</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/png</value>
+    </parameter>
+    <parameter>
+      <name>is_polarnight</name>
+      <value>1</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>40</value>
+        <label>DrizzleSun</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fpng&amp;is_polarnight=1&amp;symbol=40</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/png</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>41</value>
+        <label>RainSun</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fpng&amp;symbol=41</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/png</value>
+    </parameter>
+    <parameter>
+      <name>is_night</name>
+      <value>1</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>41</value>
+        <label>RainSun</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fpng&amp;is_night=1&amp;symbol=41</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/png</value>
+    </parameter>
+    <parameter>
+      <name>is_polarnight</name>
+      <value>1</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>41</value>
+        <label>RainSun</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fpng&amp;is_polarnight=1&amp;symbol=41</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/png</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>42</value>
+        <label>LightSleetSun</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fpng&amp;symbol=42</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/png</value>
+    </parameter>
+    <parameter>
+      <name>is_night</name>
+      <value>1</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>42</value>
+        <label>LightSleetSun</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fpng&amp;is_night=1&amp;symbol=42</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/png</value>
+    </parameter>
+    <parameter>
+      <name>is_polarnight</name>
+      <value>1</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>42</value>
+        <label>LightSleetSun</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fpng&amp;is_polarnight=1&amp;symbol=42</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/png</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>43</value>
+        <label>HeavySleetSun</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fpng&amp;symbol=43</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/png</value>
+    </parameter>
+    <parameter>
+      <name>is_night</name>
+      <value>1</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>43</value>
+        <label>HeavySleetSun</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fpng&amp;is_night=1&amp;symbol=43</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/png</value>
+    </parameter>
+    <parameter>
+      <name>is_polarnight</name>
+      <value>1</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>43</value>
+        <label>HeavySleetSun</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fpng&amp;is_polarnight=1&amp;symbol=43</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/png</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>44</value>
+        <label>LightSnowSun</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fpng&amp;symbol=44</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/png</value>
+    </parameter>
+    <parameter>
+      <name>is_night</name>
+      <value>1</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>44</value>
+        <label>LightSnowSun</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fpng&amp;is_night=1&amp;symbol=44</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/png</value>
+    </parameter>
+    <parameter>
+      <name>is_polarnight</name>
+      <value>1</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>44</value>
+        <label>LightSnowSun</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fpng&amp;is_polarnight=1&amp;symbol=44</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/png</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>45</value>
+        <label>HeavysnowSun</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fpng&amp;symbol=45</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/png</value>
+    </parameter>
+    <parameter>
+      <name>is_night</name>
+      <value>1</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>45</value>
+        <label>HeavysnowSun</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fpng&amp;is_night=1&amp;symbol=45</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/png</value>
+    </parameter>
+    <parameter>
+      <name>is_polarnight</name>
+      <value>1</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>45</value>
+        <label>HeavysnowSun</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fpng&amp;is_polarnight=1&amp;symbol=45</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/png</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>46</value>
+        <label>Drizzle</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fpng&amp;symbol=46</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/png</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>47</value>
+        <label>LightSleet</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fpng&amp;symbol=47</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/png</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>48</value>
+        <label>HeavySleet</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fpng&amp;symbol=48</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/png</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>49</value>
+        <label>LightSnow</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fpng&amp;symbol=49</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/png</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>50</value>
+        <label>HeavySnow</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fpng&amp;symbol=50</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/svg+xml</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>1</value>
+        <label>Sun</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fsvg%2Bxml&amp;symbol=1</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/svg+xml</value>
+    </parameter>
+    <parameter>
+      <name>is_night</name>
+      <value>1</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>1</value>
+        <label>Sun</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fsvg%2Bxml&amp;is_night=1&amp;symbol=1</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/svg+xml</value>
+    </parameter>
+    <parameter>
+      <name>is_polarnight</name>
+      <value>1</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>1</value>
+        <label>Sun</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fsvg%2Bxml&amp;is_polarnight=1&amp;symbol=1</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/svg+xml</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>2</value>
+        <label>LightCloud</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fsvg%2Bxml&amp;symbol=2</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/svg+xml</value>
+    </parameter>
+    <parameter>
+      <name>is_night</name>
+      <value>1</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>2</value>
+        <label>LightCloud</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fsvg%2Bxml&amp;is_night=1&amp;symbol=2</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/svg+xml</value>
+    </parameter>
+    <parameter>
+      <name>is_polarnight</name>
+      <value>1</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>2</value>
+        <label>LightCloud</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fsvg%2Bxml&amp;is_polarnight=1&amp;symbol=2</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/svg+xml</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>3</value>
+        <label>PartlyCloud</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fsvg%2Bxml&amp;symbol=3</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/svg+xml</value>
+    </parameter>
+    <parameter>
+      <name>is_night</name>
+      <value>1</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>3</value>
+        <label>PartlyCloud</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fsvg%2Bxml&amp;is_night=1&amp;symbol=3</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/svg+xml</value>
+    </parameter>
+    <parameter>
+      <name>is_polarnight</name>
+      <value>1</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>3</value>
+        <label>PartlyCloud</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fsvg%2Bxml&amp;is_polarnight=1&amp;symbol=3</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/svg+xml</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>4</value>
+        <label>Cloud</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fsvg%2Bxml&amp;symbol=4</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/svg+xml</value>
+    </parameter>
+    <parameter>
+      <name>is_night</name>
+      <value>1</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>4</value>
+        <label>Cloud</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fsvg%2Bxml&amp;is_night=1&amp;symbol=4</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/svg+xml</value>
+    </parameter>
+    <parameter>
+      <name>is_polarnight</name>
+      <value>1</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>4</value>
+        <label>Cloud</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fsvg%2Bxml&amp;is_polarnight=1&amp;symbol=4</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/svg+xml</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>5</value>
+        <label>LightRainSun</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fsvg%2Bxml&amp;symbol=5</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/svg+xml</value>
+    </parameter>
+    <parameter>
+      <name>is_night</name>
+      <value>1</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>5</value>
+        <label>LightRainSun</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fsvg%2Bxml&amp;is_night=1&amp;symbol=5</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/svg+xml</value>
+    </parameter>
+    <parameter>
+      <name>is_polarnight</name>
+      <value>1</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>5</value>
+        <label>LightRainSun</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fsvg%2Bxml&amp;is_polarnight=1&amp;symbol=5</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/svg+xml</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>6</value>
+        <label>LightRainThunderSun</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fsvg%2Bxml&amp;symbol=6</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/svg+xml</value>
+    </parameter>
+    <parameter>
+      <name>is_night</name>
+      <value>1</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>6</value>
+        <label>LightRainThunderSun</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fsvg%2Bxml&amp;is_night=1&amp;symbol=6</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/svg+xml</value>
+    </parameter>
+    <parameter>
+      <name>is_polarnight</name>
+      <value>1</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>6</value>
+        <label>LightRainThunderSun</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fsvg%2Bxml&amp;is_polarnight=1&amp;symbol=6</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/svg+xml</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>7</value>
+        <label>SleetSun</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fsvg%2Bxml&amp;symbol=7</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/svg+xml</value>
+    </parameter>
+    <parameter>
+      <name>is_night</name>
+      <value>1</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>7</value>
+        <label>SleetSun</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fsvg%2Bxml&amp;is_night=1&amp;symbol=7</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/svg+xml</value>
+    </parameter>
+    <parameter>
+      <name>is_polarnight</name>
+      <value>1</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>7</value>
+        <label>SleetSun</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fsvg%2Bxml&amp;is_polarnight=1&amp;symbol=7</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/svg+xml</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>8</value>
+        <label>SnowSun</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fsvg%2Bxml&amp;symbol=8</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/svg+xml</value>
+    </parameter>
+    <parameter>
+      <name>is_night</name>
+      <value>1</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>8</value>
+        <label>SnowSun</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fsvg%2Bxml&amp;is_night=1&amp;symbol=8</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/svg+xml</value>
+    </parameter>
+    <parameter>
+      <name>is_polarnight</name>
+      <value>1</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>8</value>
+        <label>SnowSun</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fsvg%2Bxml&amp;is_polarnight=1&amp;symbol=8</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/svg+xml</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>9</value>
+        <label>LightRain</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fsvg%2Bxml&amp;symbol=9</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/svg+xml</value>
+    </parameter>
+    <parameter>
+      <name>is_night</name>
+      <value>1</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>9</value>
+        <label>LightRain</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fsvg%2Bxml&amp;is_night=1&amp;symbol=9</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/svg+xml</value>
+    </parameter>
+    <parameter>
+      <name>is_polarnight</name>
+      <value>1</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>9</value>
+        <label>LightRain</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fsvg%2Bxml&amp;is_polarnight=1&amp;symbol=9</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/svg+xml</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>10</value>
+        <label>Rain</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fsvg%2Bxml&amp;symbol=10</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/svg+xml</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>11</value>
+        <label>RainThunder</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fsvg%2Bxml&amp;symbol=11</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/svg+xml</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>12</value>
+        <label>Sleet</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fsvg%2Bxml&amp;symbol=12</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/svg+xml</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>13</value>
+        <label>Snow</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fsvg%2Bxml&amp;symbol=13</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/svg+xml</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>14</value>
+        <label>SnowThunder</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fsvg%2Bxml&amp;symbol=14</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/svg+xml</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>15</value>
+        <label>Fog</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fsvg%2Bxml&amp;symbol=15</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/svg+xml</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>20</value>
+        <label>SleetSunThunder</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fsvg%2Bxml&amp;symbol=20</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/svg+xml</value>
+    </parameter>
+    <parameter>
+      <name>is_night</name>
+      <value>1</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>20</value>
+        <label>SleetSunThunder</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fsvg%2Bxml&amp;is_night=1&amp;symbol=20</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/svg+xml</value>
+    </parameter>
+    <parameter>
+      <name>is_polarnight</name>
+      <value>1</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>20</value>
+        <label>SleetSunThunder</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fsvg%2Bxml&amp;is_polarnight=1&amp;symbol=20</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/svg+xml</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>21</value>
+        <label>SnowSunThunder</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fsvg%2Bxml&amp;symbol=21</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/svg+xml</value>
+    </parameter>
+    <parameter>
+      <name>is_night</name>
+      <value>1</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>21</value>
+        <label>SnowSunThunder</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fsvg%2Bxml&amp;is_night=1&amp;symbol=21</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/svg+xml</value>
+    </parameter>
+    <parameter>
+      <name>is_polarnight</name>
+      <value>1</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>21</value>
+        <label>SnowSunThunder</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fsvg%2Bxml&amp;is_polarnight=1&amp;symbol=21</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/svg+xml</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>22</value>
+        <label>LightRainThunder</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fsvg%2Bxml&amp;symbol=22</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/svg+xml</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>23</value>
+        <label>SleetThunder</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fsvg%2Bxml&amp;symbol=23</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/svg+xml</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>24</value>
+        <label>DrizzleThunderSun</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fsvg%2Bxml&amp;symbol=24</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/svg+xml</value>
+    </parameter>
+    <parameter>
+      <name>is_night</name>
+      <value>1</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>24</value>
+        <label>DrizzleThunderSun</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fsvg%2Bxml&amp;is_night=1&amp;symbol=24</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/svg+xml</value>
+    </parameter>
+    <parameter>
+      <name>is_polarnight</name>
+      <value>1</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>24</value>
+        <label>DrizzleThunderSun</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fsvg%2Bxml&amp;is_polarnight=1&amp;symbol=24</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/svg+xml</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>25</value>
+        <label>RainThunderSun</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fsvg%2Bxml&amp;symbol=25</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/svg+xml</value>
+    </parameter>
+    <parameter>
+      <name>is_night</name>
+      <value>1</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>25</value>
+        <label>RainThunderSun</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fsvg%2Bxml&amp;is_night=1&amp;symbol=25</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/svg+xml</value>
+    </parameter>
+    <parameter>
+      <name>is_polarnight</name>
+      <value>1</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>25</value>
+        <label>RainThunderSun</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fsvg%2Bxml&amp;is_polarnight=1&amp;symbol=25</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/svg+xml</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>26</value>
+        <label>LightSleetThunderSun</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fsvg%2Bxml&amp;symbol=26</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/svg+xml</value>
+    </parameter>
+    <parameter>
+      <name>is_night</name>
+      <value>1</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>26</value>
+        <label>LightSleetThunderSun</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fsvg%2Bxml&amp;is_night=1&amp;symbol=26</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/svg+xml</value>
+    </parameter>
+    <parameter>
+      <name>is_polarnight</name>
+      <value>1</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>26</value>
+        <label>LightSleetThunderSun</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fsvg%2Bxml&amp;is_polarnight=1&amp;symbol=26</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/svg+xml</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>27</value>
+        <label>HeavySleetThunderSun</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fsvg%2Bxml&amp;symbol=27</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/svg+xml</value>
+    </parameter>
+    <parameter>
+      <name>is_night</name>
+      <value>1</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>27</value>
+        <label>HeavySleetThunderSun</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fsvg%2Bxml&amp;is_night=1&amp;symbol=27</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/svg+xml</value>
+    </parameter>
+    <parameter>
+      <name>is_polarnight</name>
+      <value>1</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>27</value>
+        <label>HeavySleetThunderSun</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fsvg%2Bxml&amp;is_polarnight=1&amp;symbol=27</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/svg+xml</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>28</value>
+        <label>LightSnowThunderSun</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fsvg%2Bxml&amp;symbol=28</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/svg+xml</value>
+    </parameter>
+    <parameter>
+      <name>is_night</name>
+      <value>1</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>28</value>
+        <label>LightSnowThunderSun</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fsvg%2Bxml&amp;is_night=1&amp;symbol=28</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/svg+xml</value>
+    </parameter>
+    <parameter>
+      <name>is_polarnight</name>
+      <value>1</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>28</value>
+        <label>LightSnowThunderSun</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fsvg%2Bxml&amp;is_polarnight=1&amp;symbol=28</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/svg+xml</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>29</value>
+        <label>HeavySnowThunderSun</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fsvg%2Bxml&amp;symbol=29</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/svg+xml</value>
+    </parameter>
+    <parameter>
+      <name>is_night</name>
+      <value>1</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>29</value>
+        <label>HeavySnowThunderSun</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fsvg%2Bxml&amp;is_night=1&amp;symbol=29</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/svg+xml</value>
+    </parameter>
+    <parameter>
+      <name>is_polarnight</name>
+      <value>1</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>29</value>
+        <label>HeavySnowThunderSun</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fsvg%2Bxml&amp;is_polarnight=1&amp;symbol=29</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/svg+xml</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>30</value>
+        <label>DrizzleThunder</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fsvg%2Bxml&amp;symbol=30</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/svg+xml</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>31</value>
+        <label>LightSleetThunder</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fsvg%2Bxml&amp;symbol=31</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/svg+xml</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>32</value>
+        <label>HeavySleetThunder</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fsvg%2Bxml&amp;symbol=32</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/svg+xml</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>33</value>
+        <label>LightSnowThunder</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fsvg%2Bxml&amp;symbol=33</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/svg+xml</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>34</value>
+        <label>HeavySnowThunder</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fsvg%2Bxml&amp;symbol=34</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/svg+xml</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>40</value>
+        <label>DrizzleSun</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fsvg%2Bxml&amp;symbol=40</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/svg+xml</value>
+    </parameter>
+    <parameter>
+      <name>is_night</name>
+      <value>1</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>40</value>
+        <label>DrizzleSun</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fsvg%2Bxml&amp;is_night=1&amp;symbol=40</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/svg+xml</value>
+    </parameter>
+    <parameter>
+      <name>is_polarnight</name>
+      <value>1</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>40</value>
+        <label>DrizzleSun</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fsvg%2Bxml&amp;is_polarnight=1&amp;symbol=40</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/svg+xml</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>41</value>
+        <label>RainSun</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fsvg%2Bxml&amp;symbol=41</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/svg+xml</value>
+    </parameter>
+    <parameter>
+      <name>is_night</name>
+      <value>1</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>41</value>
+        <label>RainSun</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fsvg%2Bxml&amp;is_night=1&amp;symbol=41</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/svg+xml</value>
+    </parameter>
+    <parameter>
+      <name>is_polarnight</name>
+      <value>1</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>41</value>
+        <label>RainSun</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fsvg%2Bxml&amp;is_polarnight=1&amp;symbol=41</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/svg+xml</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>42</value>
+        <label>LightSleetSun</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fsvg%2Bxml&amp;symbol=42</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/svg+xml</value>
+    </parameter>
+    <parameter>
+      <name>is_night</name>
+      <value>1</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>42</value>
+        <label>LightSleetSun</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fsvg%2Bxml&amp;is_night=1&amp;symbol=42</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/svg+xml</value>
+    </parameter>
+    <parameter>
+      <name>is_polarnight</name>
+      <value>1</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>42</value>
+        <label>LightSleetSun</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fsvg%2Bxml&amp;is_polarnight=1&amp;symbol=42</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/svg+xml</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>43</value>
+        <label>HeavySleetSun</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fsvg%2Bxml&amp;symbol=43</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/svg+xml</value>
+    </parameter>
+    <parameter>
+      <name>is_night</name>
+      <value>1</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>43</value>
+        <label>HeavySleetSun</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fsvg%2Bxml&amp;is_night=1&amp;symbol=43</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/svg+xml</value>
+    </parameter>
+    <parameter>
+      <name>is_polarnight</name>
+      <value>1</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>43</value>
+        <label>HeavySleetSun</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fsvg%2Bxml&amp;is_polarnight=1&amp;symbol=43</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/svg+xml</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>44</value>
+        <label>LightSnowSun</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fsvg%2Bxml&amp;symbol=44</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/svg+xml</value>
+    </parameter>
+    <parameter>
+      <name>is_night</name>
+      <value>1</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>44</value>
+        <label>LightSnowSun</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fsvg%2Bxml&amp;is_night=1&amp;symbol=44</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/svg+xml</value>
+    </parameter>
+    <parameter>
+      <name>is_polarnight</name>
+      <value>1</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>44</value>
+        <label>LightSnowSun</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fsvg%2Bxml&amp;is_polarnight=1&amp;symbol=44</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/svg+xml</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>45</value>
+        <label>HeavysnowSun</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fsvg%2Bxml&amp;symbol=45</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/svg+xml</value>
+    </parameter>
+    <parameter>
+      <name>is_night</name>
+      <value>1</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>45</value>
+        <label>HeavysnowSun</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fsvg%2Bxml&amp;is_night=1&amp;symbol=45</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/svg+xml</value>
+    </parameter>
+    <parameter>
+      <name>is_polarnight</name>
+      <value>1</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>45</value>
+        <label>HeavysnowSun</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fsvg%2Bxml&amp;is_polarnight=1&amp;symbol=45</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/svg+xml</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>46</value>
+        <label>Drizzle</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fsvg%2Bxml&amp;symbol=46</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/svg+xml</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>47</value>
+        <label>LightSleet</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fsvg%2Bxml&amp;symbol=47</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/svg+xml</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>48</value>
+        <label>HeavySleet</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fsvg%2Bxml&amp;symbol=48</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/svg+xml</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>49</value>
+        <label>LightSnow</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fsvg%2Bxml&amp;symbol=49</uri>
+
+  </query>
+  <query>
+
+    <parameter>
+      <name>content_type</name>
+      <value>image/svg+xml</value>
+    </parameter>
+    <parameter>
+      <name>symbol</name>
+      <value>50</value>
+        <label>HeavySnow</label>
+    </parameter>
+
+    <uri>https://api.met.no/weatherapi/weathericon/1.1?content_type=image%2Fsvg%2Bxml&amp;symbol=50</uri>
+
+  </query>
+
+</available>

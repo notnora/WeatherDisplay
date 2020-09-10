@@ -1,0 +1,36 @@
+<!doctype html>
+<html>
+<head>
+   <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='styles/weather_style.css') }}">
+    <title>Current Weather for Lovisenberggata 15J</title><br>
+    <meta name="description" content="Main page with the current weather of Lovisenberggata 15J">
+</head>
+<body>
+    <h1 style="font-family: Helvetica; text-align: center;">Weather at {{ address }}</h1>
+    <h1 style="font-family: Helvetica; text-align: center;">
+        <img src="http://openweathermap.org/img/w/{{ icon }}.png" alt="Image">
+        {{ weather.temperature }} Celsius
+        <h1 style="font-family: Helvetica; text-align: center;">{{ weather["description"] }}</h1>
+    </h1>
+
+    <div align="center" >
+        <p style="font-family: Helvetica; text-align: center;">
+        <form id="new_addr_form" action="{{ url_for( 'addr_change' ) }}" method="post">
+            New address:
+            <input type="text" name="new_address"/><br>
+            <input type="button" value="Submit">
+        </form>
+    </p>
+    </div>
+        <script>
+            $(function (){
+                $("#field").keyup(function(event){
+                    if(event.which === 13){
+                        document.new_address.submit();
+                    }
+                })
+            });
+        </script>
+
+</body>
+</html>
